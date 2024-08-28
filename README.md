@@ -63,9 +63,6 @@ SHESAFE is an innovative safety solution designed to address the varying levels 
 - **Machine Learning** for advanced analytics
 - **React** for web integration
 
-## 📈 Project Status
-
-🚧 Under Development 🚧
 
 ## 📞 Contact
 
